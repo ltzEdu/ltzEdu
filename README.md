@@ -1,8 +1,4 @@
-### Olá pessoas, me chamo Eduardo Felipe, mais conhecido como ltzEdu!
-###  📫 Email Principal: eduardofelipe10100@gmail.com
-###  📫 Email Secundário: eduardofelipe10100@hotmail.com
-### Eu sou um menino e eu como uma maçã
-<span style="color: yellow;">👑 Marília Mendonça Lover 👑
+To sempre fazendo alguma coisa por ai
 
 <!--
 **ltzEdu/ltzEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
